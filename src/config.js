@@ -1,4 +1,4 @@
 module.exports = {
-  PORT: process.env.PORT || 8000,
-  NODE_ENV: process.env.NODE_ENV || "development",
+  PORT: 9090, //process.env.PORT || 9090,
+  NODE_ENV: "development", //process.env.NODE_ENV || "development",
 };
